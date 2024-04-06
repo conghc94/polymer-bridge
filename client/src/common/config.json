@@ -1,0 +1,26 @@
+{
+  "phase2": {
+    "token": {
+      "name": "PolymerPhase2",
+      "symbol": "PolyP2",
+      "optimism": "0xCb7ABE3643d7b509E48537791A7B74C6e3039FA1",
+      "base": "0xDC190364Eccce2cBE819Ea8D0559dFFD057960ce"
+    },
+    "NFT": {
+      "name": "PolymerPhase2NFT",
+      "symbol": "PP2NFT",
+      "base": "0x5502ED8e9920b07E99984976A00D7Bb9bd635adb"
+    },
+    "NFTGame": {
+      "optimism": "0x476691F863d5781d2969629C902f5c14C83eB136"
+    },
+    "channel": {
+      "optimism": "channel-10",
+      "base": "channel-11"
+    },
+    "rpc": {
+      "optimism": "https://optimism-sepolia.blockpi.network/v1/rpc/public",
+      "base": "https://rpc.notadegen.com/base/sepolia"
+    }
+  }
+}
